@@ -4,7 +4,7 @@ package com.test.git.open.sss;
  * Hello world!
  *
  */
-public class App 
+public class App
 {
     public static void main( String[] args )
     {
